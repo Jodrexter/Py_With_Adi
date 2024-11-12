@@ -1,4 +1,3 @@
-# Py_With_Adi
 
 # Python Learning Journey
 
