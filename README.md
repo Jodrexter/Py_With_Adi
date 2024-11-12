@@ -24,15 +24,6 @@ This repository is organized by topic to make it easy to follow specific areas o
 2. **Navigate by Topic**: Open the folder of the topic you want to explore. Each topic contains organized files and subfolders for easy navigation.
 3. **Run Examples**: Run Python scripts in your terminal or open Jupyter notebooks to view code examples and outputs.
 
-## Dependencies
-
-Some topics may require specific Python libraries. If needed, you can install dependencies using:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-Note: The `requirements.txt` file may be updated over time as new topics are added.
-
 ## Contributing
 
 This repository is a personal learning project, but any constructive feedback, suggestions, or tips are welcome! 
