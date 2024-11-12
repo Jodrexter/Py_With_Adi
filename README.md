@@ -20,7 +20,7 @@ This repository is organized by topic to make it easy to follow specific areas o
 
 1. **Clone the repository**: Download the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/python-learning-journey.git
+   git clone https://github.com/Jodrexter/Py_With_Adi.git
    ```
 2. **Navigate by Topic**: Open the folder of the topic you want to explore. Each topic contains organized files and subfolders for easy navigation.
 3. **Run Examples**: Run Python scripts in your terminal or open Jupyter notebooks to view code examples and outputs.
